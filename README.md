@@ -4,3 +4,5 @@
 
 * `npm install`
 * `npm run dev`
+
+An excuse to use nextjs
